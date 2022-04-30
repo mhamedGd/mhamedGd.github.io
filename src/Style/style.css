@@ -1,0 +1,169 @@
+body{
+    background-color: #060608;
+    font-family: 'Cinzel', sans-serif;
+    color: #F5F5F5;
+    text-align: center;
+}
+
+hr{
+    width: 200px;
+}
+
+p{
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+}
+
+button{
+    font-family: 'Cinzel', sans-serif;
+}
+
+img{
+    padding-top: 50px;
+    margin-bottom: -50px;
+}
+
+#Shareet{
+    border-color : #F05454;
+    list-style-type: none;
+    position: sticky;
+    width:100%;
+    top:30px;    
+    margin: 0;    
+    padding: 0px;
+    overflow: hidden;
+}
+
+ul {
+    list-style-type: none;
+    position: sticky;
+    width:100%;
+    height: 30px;
+    top:0;    
+    margin: 0;    
+    padding: 0px;
+    overflow: hidden;
+    background-color: #000000;       
+}
+
+li {    
+    float: left;
+    margin-left: 5%;
+}
+
+li button {
+    background-color: #000000;
+    border: 0px;
+    display: block;
+    color: #F05454;
+    font-size:15px;
+    text-align: center;    
+    padding: 5px 20px;
+    text-decoration: none;
+}
+
+li button:hover {
+    color: #F5F5F5;
+}
+
+li button:active{
+    color: #000000;
+}
+
+.About-me{
+    padding-top: 50px;
+}
+
+.About-me img{
+    height: 200px;
+    padding-bottom: 120px;
+}
+
+.About-me h1{
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.About-me p{
+    width: 800px;
+    margin: 0 auto;
+    margin-top : -10px;
+    margin-bottom: 150px;
+}
+
+.About-me hr{    
+    width: 400px;
+    margin: 0 auto;
+}
+
+.Project{
+    margin-top: 80px;
+}
+
+.Project p{
+    width: 600px;
+    margin: 0 auto;
+    margin-top: 40px;
+    padding-bottom: 20px;
+    font-family: 'Playfair Display', serif;
+}
+
+.Project hr{
+    width: 400px;    
+    margin: 0 auto;
+    margin-bottom : 10px;
+}
+
+.Project a{
+    color: white;
+    text-decoration: none;
+    margin-bottom: 20px;
+    font-weight: 900;
+    padding-left: 10px;
+    padding-right: 10px;
+    border: 2px solid white;
+}
+
+.Project a:hover{
+    color: #F05454;
+    border: 2px solid #F05454;
+}
+
+.Contact{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+.Contact a{
+    fill: white;
+    color: white;
+    font-size: 15px;
+    display: inline-block;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 10px;
+}
+
+.Contact a:hover{
+    fill: #F05454;
+    color: #F05454;
+}
+
+
+.Contact button{
+    background-color: #060608;
+    color: white;
+    border: 1px solid white;
+    padding: 5px;
+}
+
+.Contact button:hover{
+    color: #F05454;
+    border-color: #F05454;
+    cursor: pointer;
+}
+
+.Contact button:active{
+    color: #060608;
+    border-color: #060608;
+}
