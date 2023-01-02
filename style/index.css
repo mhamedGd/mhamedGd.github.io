@@ -6,9 +6,12 @@
     --roboto: 'Roboto', sans-serif;
     --nunito: 'Nunito', sans-serif;
 }
-
 html {
     scroll-behavior: smooth;
+}
+
+a {
+    -webkit-tap-highlight-color: transparent;
 }
 
 .center-item {
