@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 24 24"
+   fill="none"
+   version="1.1"
+   id="svg310"
+   sodipodi:docname="Icon-Linkedin.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview312"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="34"
+     inkscape:cx="10.352941"
+     inkscape:cy="12.014706"
+     inkscape:window-width="1920"
+     inkscape:window-height="1003"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg310" />
+  <g
+     clip-path="url(#clip0_48_41)"
+     id="g303"
+     style="fill:#c83737">
+    <path
+       d="M15.6439 5.03442C12.1551 5.03442 9.28809 7.86201 9.28809 11.3793V21.3103C9.28809 21.6896 9.59897 21.9999 9.97893 21.9999H13.5713C13.9513 21.9999 14.2622 21.6896 14.2622 21.3103V11.6551C14.2622 10.8965 14.8839 10.2758 15.6439 10.2758C16.4038 10.2758 17.0256 10.8965 17.0256 11.6551V21.3103C17.0256 21.6896 17.3364 21.9999 17.7164 21.9999H21.3088C21.6888 21.9999 21.9997 21.6896 21.9997 21.3103V11.3793C21.9997 7.89649 19.1672 5.03442 15.6439 5.03442Z"
+       fill="#DBD8D7"
+       id="path297"
+       style="fill:#c83737" />
+    <path
+       d="M6.28325 8.27588H2.69085C2.31088 8.27588 2 8.58622 2 8.96553V21.3104C2 21.6897 2.31088 22 2.69085 22H6.28325C6.66321 22 6.97409 21.6897 6.97409 21.3104V8.96553C6.97409 8.58622 6.66321 8.27588 6.28325 8.27588Z"
+       fill="#DBD8D7"
+       id="path299"
+       style="fill:#c83737" />
+    <path
+       d="M4.48705 2C3.10535 2 2 3.10345 2 4.48276C2 5.86207 3.10535 6.96552 4.48705 6.96552C5.86874 6.96552 6.97409 5.86207 6.97409 4.48276C6.97409 3.10345 5.86874 2 4.48705 2Z"
+       fill="#DBD8D7"
+       id="path301"
+       style="fill:#c83737" />
+  </g>
+  <defs
+     id="defs308">
+    <clipPath
+       id="clip0_48_41">
+      <rect
+         width="20"
+         height="20"
+         fill="white"
+         transform="translate(2 2)"
+         id="rect305" />
+    </clipPath>
+  </defs>
+</svg>
