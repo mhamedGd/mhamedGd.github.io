@@ -10,7 +10,19 @@ const WORKS_INFO = [
         link_1: "https://github.com/mhamedGd/Playground2D",
         link_2_name: "Documentation",
         link_2: "https://mhamedgd.github.io/Pg2dDocs/",
-    }
+    },
+    {
+        name: "Tennis",
+        small_image: "./assets/Playground2D/Playground2D.svg",
+        big_image: "./assets/Playground2D/Playground2D_Big.svg",
+        short_description: "",
+        long_description: "",
+        technologies: ["Unity"],
+        link_1_name: "Demo",
+        link_1: "./assets/Tennis/index.html",
+        link_2_name: "",
+        link_2: "",
+    },
 ];
 
 function SetHighlightedWork(info){
