@@ -19,7 +19,7 @@ const WORKS_INFO = [
         long_description: "",
         technologies: ["Unity"],
         link_1_name: "Demo",
-        link_1: "./assets/Tennis/index.html",
+        link_1: "./assets/Pong2/index.html",
         link_2_name: "",
         link_2: "",
     },
