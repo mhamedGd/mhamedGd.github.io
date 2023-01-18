@@ -13,7 +13,7 @@ const WORKS_INFO = [
     },
     {
         name: "PONG 2",
-        small_image: "./assets/Pong2/PONG2.png",
+        small_image: "./assets/Pong2/PONG2.svg",
         big_image: "./assets/Pong2/PONG2_Big.svg",
         short_description: "If Atari didn't stop at Pong and Created Pong2, A game that combines Pong and Tennis at its own rules.",
         long_description: "If Atari didn't stop at Pong and Created Pong2, A game that combines Pong and Tennis at its own rules. Made for the (GoedWare Gamejam #7) in 7 days. The game mainly focuses on having fewer features to be more defined and scope-focused on the game itself rather than the featues. The game also features single-screen multiplayer.",
