@@ -23,6 +23,30 @@ const WORKS_INFO = [
         link_2_name: "itch.io Page",
         link_2: "https://mhamedgd.itch.io/pong-2",
     },
+    {
+        name: "Block|Block",
+        small_image: "./assets/BlockBlock/BlockBlock.svg",
+        big_image: "./assets/BlockBlock/BlockBlock_Big.svg",
+        short_description: "A simple puzzle game to relax and play. Just complete the map you're given.",
+        long_description: "A simple puzzle game to relax and play, Just complete the map you're given. Complete the map that you can find with the right mouse button by triggering the empty tiles. After the tiles are matching with the map press 'Check' to progress. If you've made a mistake, you can press 'Reset' to de-trigger the tiles.",
+        technologies: ["Unity", "Audacity"],
+        link_1_name: "itch.io Page",
+        link_1: "https://mhamedgd.itch.io/blockblock",
+        link_2_name: "",
+        link_2: "",
+    },
+    {
+        name: "CardWars",
+        small_image: "./assets/CardWars/Logo_CardWars.png",
+        big_image: "./assets/CardWars/Logo_CardWars_Big.svg",
+        short_description: "Clash Royale miniature pixel-art version, made for the 2023 GlobalGameJam.",
+        long_description: "A tower defense + cards game where you're the owner of a castle competing to destroy your enemy's castle, While he does as well. The game mixes elements of tower defense with the idea of conjuring troops using cards. The game uses simplistic art with a deep extensive skill margin. You can expand your reach and destroy the enemy in their den with towers..",
+        technologies: ["Unity", "Gimp", "Pixelorama", "Audacity"],
+        link_1_name: "itch.io Page",
+        link_1: "https://mhamedgd.itch.io/cardwars",
+        link_2_name: "",
+        link_2: "",
+    },
 ];
 
 function SetHighlightedWork(info){
