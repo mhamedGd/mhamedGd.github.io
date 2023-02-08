@@ -39,7 +39,7 @@ const WORKS_INFO = [
         name: "CardWars",
         small_image: "./assets/CardWars/Logo_CardWars.png",
         big_image: "./assets/CardWars/Logo_CardWars_Big.svg",
-        short_description: "Clash Royale miniature pixel-art version, made for the 2023 GlobalGameJam.",
+        short_description: "Clash Royale miniature pixel-art version, made for the 2023 GlobalGameJam hosted by BaghdadGameLab.",
         long_description: "A tower defense + cards game where you're the owner of a castle competing to destroy your enemy's castle, While he does as well. The game mixes elements of tower defense with the idea of conjuring troops using cards. The game uses simplistic art with a deep extensive skill margin. You can expand your reach and destroy the enemy in their den with towers..",
         technologies: ["Unity", "Gimp", "Pixelorama", "Audacity"],
         link_1_name: "itch.io Page",
