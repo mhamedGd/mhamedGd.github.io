@@ -1,5 +1,17 @@
 const WORKS_INFO = [
     {
+        name: "Chai",
+        small_image: "./assets/Chai/Chai_Dark.png",
+        big_image: "./assets/Chai/Chai_Big.png",
+        short_description: "A small Game Engine for prototyping software and video games. Mainly created for small scaled projects.",
+        long_description: "A small Web-focused Game Engine that is focused mainly on GameJams and Prototyping Game Ideas, It's build in Go and utilizes WASM to target Web Browsers. Its architecture is based on Data-Oriented design via the usage of an ECS Engine. It's only code-based for now, but an editor is planned to for development soon.",
+        technologies: ["Go", "WebGL", "WASM", "Box2D"],
+        link_1_name: "Github Repository",
+        link_1: "https://github.com/mhamedGd/chai",
+        link_2_name: "Documentation",
+        link_2: "https://mhamedgd.github.io/chai-docs/",
+    },
+    {
         name: "Playground2D",
         small_image: "./assets/Playground2D/Playground2D.svg",
         big_image: "./assets/Playground2D/Playground2D_Big.svg",
